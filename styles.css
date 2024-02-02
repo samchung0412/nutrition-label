@@ -29,6 +29,7 @@ p {
     justify-content: space-between;
 }
 
+/* for the single line */
 .divider {
     border-bottom: 1px solid #888989;
     margin: 2px 0;
